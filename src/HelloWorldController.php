@@ -1,6 +1,6 @@
 <?php
 
-namespace Max\HelloWorld;
+namespace Chinwhou\HelloWorld;
 
 use App\Http\Controllers\Controller;
 use App\Http\Request;

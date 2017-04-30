@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('helloworld','Max\HelloWorld\HelloWorldController@index');
+Route::get('helloworld','Chinwhou\HelloWorld\HelloWorldController@index');
 Route::get('hellow',function(){
     return view('helloworld::welcome');
 });

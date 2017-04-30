@@ -1,6 +1,6 @@
 <?php
 
-namespace Max\HelloWorld;
+namespace Chinwhou\HelloWorld;
 
 use Illuminate\Support\ServiceProvider;
 

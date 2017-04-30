@@ -1,15 +1,15 @@
 {
-    "name": "max/helloworld",
+    "name": "chinwhou/helloworld",
     "authors": [
         {
-            "name": "max",
+            "name": "chinwhou",
             "email": "chinwhou@gmail.com"
         }
     ],
     "require": {},
     "autoload":{
         "psr-4": {
-            "Max\\HelloWorld\\":"packages/max/helloworld/src/"
+            "Chinwhou\\HelloWorld\\":"packages/chinwhou/helloworld/src/"
         }    
     }
 }
